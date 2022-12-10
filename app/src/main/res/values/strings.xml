@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">App Galeria de Imágenes</string>
+    <string name="desarrollador">Desarrollado por: Víctor Marín Almonacid</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!--MENU ADMIN-->
+    <string name="InicioAdmin">Inicio</string>
+    <string name="PerfilAdmin">Perfil</string>
+    <string name="RegistrarAdmin">Registrar</string>
+    <string name="ListarAdmin">Lista de administradores</string>
+    <string name="Salir">Cerrar sesión</string>
+
+    <!--MENU CLIENTE-->
+    <string name="Opcionestxt">Opciones</string>
+    <string name="InicioCliente">Inicio</string>
+
+    <string name="MasOpcionestxt">Más opciones</string>
+    <string name="AcercaDe">Acerca De</string>
+    <string name="Compartir">Compartir</string>
+    
+    <string name="Acceder">Acceder</string>
+
+    <!-- LOGIN ADMINISTRADORES -->
+    <string name="LoginTXT">Ingreso Administradores</string>
+    <string name="Ingresar">Iniciar Sesión</string>
+
+
+
+    <!-- REGISTRO DE ADMINISTRADORES -->
+    <string name="RegistroTXT">Registro Administradores</string>
+    <string name="Correo">Correo Electrónico</string>
+    <string name="Password">Contraseña</string>
+    <string name="Nombres">Nombres</string>
+    <string name="Apellidos">Apellidos</string>
+    <string name="Edad">Edad</string>
+    <string name="FechaRegistro">Fecha de Registro</string>
+    <string name="btnRegistrar">Registrar</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

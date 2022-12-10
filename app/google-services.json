@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "735602325864",
+    "project_id": "galeria-imagenes-5e954",
+    "storage_bucket": "galeria-imagenes-5e954.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735602325864:android:ce2e5cc67590fbcb79bedd",
+        "android_client_info": {
+          "package_name": "com.miempresa.galeria_imagenes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735602325864-e5o0tsee03a2sk3n9gao5svmqjqousnp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.miempresa.galeria_imagenes",
+            "certificate_hash": "3c189833918f56a12b74e8e921bbd1a15c4dfbb3"
+          }
+        },
+        {
+          "client_id": "735602325864-jheoci2vt799sg4fp6l5v5d40l7ik3i1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3O6Xxo3PZxeD2RkEgAAcemWwmAXldGvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735602325864-jheoci2vt799sg4fp6l5v5d40l7ik3i1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
